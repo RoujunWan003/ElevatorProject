@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn" monitorInterval="30">
+	<Appenders>
+		<Console name="StdOut" target="SYSTEM_OUT">
+			<PatternLayout pattern="%msg%n" />
+		</Console>
+		<File name="TraceFileAppender" filename="ElevatorMovement.log">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} - %msg%n" />
+		</File>
+	</Appenders>
+	<Loggers>
+		<Root level="trace">
+			<AppenderRef ref="StdOut" level="trace" />
+			<AppenderRef ref="StdOut" level="error" />
+		</Root>
+		<Logger name="elevatorMaster.ThreadController" level="trace">
+			<AppenderRef ref="TraceFileAppender" level="trace" />
+		</Logger>
+		<Logger name="elevatorMaster.InputView" level="error">
+			<AppenderRef ref="TraceFileAppender" level="error" />
+		</Logger>
+	</Loggers>
+</Configuration>

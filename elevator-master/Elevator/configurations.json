@@ -1,0 +1,7 @@
+{
+	"Number of Elevators":3,
+	"End Floor":15,
+	"Starting Floor":0,
+	"Max people per command":5,
+	"Use Previous Json State":false
+}

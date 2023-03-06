@@ -1,0 +1,653 @@
+17:45:04.573 - CUSTOM MODE ACTIVATED
+17:45:19.320 - Elevator 0 will pick up 1 people from floor 1 and drop off at floor 2
+17:45:19.320 - Elevator 1 will pick up 1 people from floor 1 and drop off at floor 5
+17:45:19.320 - Elevator 2 will pick up 1 people from floor 1 and drop off at floor 8
+17:45:20.325 - Elevator 0 on Floor 1
+17:45:20.328 - Elevator 1 on Floor 1
+17:45:20.328 - Elevator 2 on Floor 1
+17:45:22.339 - Elevator 0 arrived at Floor 1 with 0 passengers.
+17:45:22.339 - Elevator 2 arrived at Floor 1 with 0 passengers.
+17:45:22.339 - Elevator 1 arrived at Floor 1 with 0 passengers.
+17:45:23.340 - Elevator doors Opening on floor 0 and has 1 passengers
+17:45:23.347 - Elevator doors Opening on floor 1 and has 1 passengers
+17:45:23.347 - Elevator doors Opening on floor 2 and has 1 passengers
+17:45:24.355 - Elevator doors Closing
+17:45:24.355 - Elevator doors Closing
+17:45:24.355 - Elevator doors Closing
+17:45:25.358 - Elevator 2 on Floor 2
+17:45:25.365 - Elevator 1 on Floor 2
+17:45:25.365 - Elevator 0 on Floor 2
+17:45:26.367 - Elevator 2 on Floor 3
+17:45:26.383 - Elevator 1 on Floor 3
+17:45:27.377 - Elevator 0 arrived at Floor 2 with 1 passengers.
+17:45:27.381 - Elevator 2 on Floor 4
+17:45:27.395 - Elevator 1 on Floor 4
+17:45:28.383 - Elevator doors Opening
+17:45:28.386 - Elevator 2 on Floor 5
+17:45:28.400 - Elevator 1 on Floor 5
+17:45:29.396 - Elevator doors Closing and 1 passengers getting off
+17:45:29.399 - Elevator 2 on Floor 6
+17:45:29.399 - Elevator 0 will pick up 4 people from floor 9 and drop off at floor 5
+17:45:30.403 - Elevator 2 on Floor 7
+17:45:30.404 - Elevator 0 on Floor 3
+17:45:30.416 - Elevator 1 arrived at Floor 5 with 1 passengers.
+17:45:31.417 - Elevator doors Opening
+17:45:31.420 - Elevator 2 on Floor 8
+17:45:31.420 - Elevator 0 on Floor 4
+17:45:32.423 - Elevator doors Closing and 1 passengers getting off
+17:45:32.426 - Elevator 0 on Floor 5
+17:45:33.429 - Elevator 2 arrived at Floor 8 with 1 passengers.
+17:45:33.434 - Elevator 0 on Floor 6
+17:45:34.431 - Elevator doors Opening
+17:45:34.439 - Elevator 0 on Floor 7
+17:45:35.441 - Elevator doors Closing and 1 passengers getting off
+17:45:35.445 - Elevator 0 on Floor 8
+17:45:36.451 - Elevator 0 on Floor 9
+17:45:38.452 - Elevator 0 arrived at Floor 9 with 0 passengers.
+17:45:39.461 - Elevator doors Opening on floor 0 and has 4 passengers
+17:45:40.473 - Elevator doors Closing
+17:45:41.477 - Elevator 0 on Floor 8
+17:45:42.490 - Elevator 0 on Floor 7
+17:45:43.494 - Elevator 0 on Floor 6
+17:45:44.511 - Elevator 0 on Floor 5
+17:45:46.526 - Elevator 0 arrived at Floor 5 with 4 passengers.
+17:45:47.537 - Elevator doors Opening
+17:45:48.540 - Elevator doors Closing and 4 passengers getting off
+16:11:35.377 - CUSTOM MODE ACTIVATED
+16:11:38.262 - Elevator 0 will pick up 3 people from floor 1 and drop off at floor 2
+16:11:39.274 - Elevator 0 on Floor 1
+16:11:41.277 - Elevator 0 arrived at Floor 1 with 0 passengers.
+16:11:42.277 - Elevator doors Opening on floor 0 and has 3 passengers
+16:11:43.279 - Elevator doors Closing
+16:11:44.281 - Elevator 0 on Floor 2
+16:11:46.295 - Elevator 0 arrived at Floor 2 with 3 passengers.
+16:12:28.198 - CUSTOM MODE ACTIVATED
+16:12:31.038 - Elevator 0 will pick up 3 people from floor 1 and drop off at floor 2
+16:12:32.050 - Elevator 0 on Floor 1
+16:12:34.051 - Elevator 0 arrived at Floor 1 with 0 passengers.
+16:12:35.053 - Elevator 0 doors Opening on floor 0 and has 3 passengers
+16:12:36.065 - Elevator doors Closing
+16:12:37.068 - Elevator 0 on Floor 2
+16:12:39.070 - Elevator 0 arrived at Floor 2 with 3 passengers.
+16:12:40.083 - Elevator 0 doors Opening
+16:12:41.084 - Elevator 0 doors Closing and 3 passengers getting off
+21:18:25.700 - RANDOM MODE ACTIVATED
+21:18:25.705 - 9:5:2
+21:18:25.706 - Elevator 0 will pick up 2 people from floor 9 and drop off at floor 5
+21:18:26.716 - Elevator 0 on Floor 1
+21:18:27.721 - Elevator 0 on Floor 2
+21:18:28.728 - Elevator 0 on Floor 3
+21:18:29.735 - Elevator 0 on Floor 4
+21:18:30.708 - 11:10:6
+21:18:30.708 - Elevator 1 will pick up 5 people from floor 11 and drop off at floor 10
+21:18:30.742 - Elevator 0 on Floor 5
+21:18:31.717 - Elevator 1 on Floor 1
+21:18:31.753 - Elevator 0 on Floor 6
+21:18:32.723 - Elevator 1 on Floor 2
+21:18:32.758 - Elevator 0 on Floor 7
+21:18:33.732 - Elevator 1 on Floor 3
+21:18:33.768 - Elevator 0 on Floor 8
+21:18:34.736 - Elevator 1 on Floor 4
+21:18:34.772 - Elevator 0 on Floor 9
+21:19:23.444 - CUSTOM MODE ACTIVATED
+21:19:30.351 - Elevator 0 will pick up 1 people from floor 12 and drop off at floor 3
+21:19:30.351 - Elevator 1 will pick up 1 people from floor 1 and drop off at floor 4
+21:19:31.359 - Elevator 1 on Floor 1
+21:19:31.360 - Elevator 0 on Floor 1
+21:19:32.372 - Elevator 0 on Floor 2
+21:19:33.361 - Elevator 1 arrived at Floor 1 with 0 passengers.
+21:19:33.379 - Elevator 0 on Floor 3
+21:19:34.362 - Elevator 1 doors Opening on floor 1 and has 1 passengers
+21:19:34.385 - Elevator 0 on Floor 4
+21:19:35.365 - Elevator doors Closing
+21:19:35.390 - Elevator 0 on Floor 5
+21:19:36.372 - Elevator 1 on Floor 2
+21:19:36.396 - Elevator 0 on Floor 6
+21:19:37.379 - Elevator 1 on Floor 3
+21:19:37.404 - Elevator 0 on Floor 7
+21:19:38.384 - Elevator 1 on Floor 4
+21:19:38.412 - Elevator 0 on Floor 8
+21:19:39.417 - Elevator 0 on Floor 9
+21:19:40.385 - Elevator 1 arrived at Floor 4 with 1 passengers.
+21:19:40.424 - Elevator 0 on Floor 10
+21:19:41.388 - Elevator 1 doors Opening
+21:19:41.428 - Elevator 0 on Floor 11
+21:19:42.392 - Elevator 1 doors Closing and 1 passengers getting off
+21:19:42.430 - Elevator 0 on Floor 12
+21:19:44.433 - Elevator 0 arrived at Floor 12 with 0 passengers.
+21:19:45.436 - Elevator 0 doors Opening on floor 0 and has 1 passengers
+21:19:46.439 - Elevator doors Closing
+21:19:47.446 - Elevator 0 on Floor 11
+21:19:48.452 - Elevator 0 on Floor 10
+21:19:49.456 - Elevator 0 on Floor 9
+21:19:50.463 - Elevator 0 on Floor 8
+21:19:51.470 - Elevator 0 on Floor 7
+21:19:52.478 - Elevator 0 on Floor 6
+21:19:53.484 - Elevator 0 on Floor 5
+21:19:54.491 - Elevator 0 on Floor 4
+21:20:04.415 - RANDOM MODE ACTIVATED
+21:20:04.419 - 11:1:8
+21:20:04.421 - Elevator 0 will pick up 5 people from floor 11 and drop off at floor 1
+21:20:05.433 - Elevator 0 on Floor 1
+21:20:06.436 - Elevator 0 on Floor 2
+21:20:07.445 - Elevator 0 on Floor 3
+21:20:07.629 - CUSTOM MODE ACTIVATED
+21:20:08.454 - Elevator 0 on Floor 4
+21:20:09.462 - Elevator 0 on Floor 5
+21:20:10.471 - Elevator 0 on Floor 6
+21:20:11.479 - Elevator 0 on Floor 7
+21:20:12.486 - Elevator 0 on Floor 8
+21:20:13.495 - Elevator 0 on Floor 9
+21:20:14.503 - Elevator 0 on Floor 10
+21:20:15.511 - Elevator 0 on Floor 11
+21:20:15.654 - EXITING SYSTEM
+21:20:17.514 - Elevator 0 arrived at Floor 11 with 0 passengers.
+21:20:18.516 - Elevator 0 doors Opening on floor 0 and has 5 passengers
+21:20:19.518 - Elevator doors Closing
+21:20:20.526 - Elevator 0 on Floor 10
+21:20:21.534 - Elevator 0 on Floor 9
+21:20:22.538 - Elevator 0 on Floor 8
+21:20:23.544 - Elevator 0 on Floor 7
+21:20:24.551 - Elevator 0 on Floor 6
+21:20:25.556 - Elevator 0 on Floor 5
+21:20:26.562 - Elevator 0 on Floor 4
+21:20:27.568 - Elevator 0 on Floor 3
+21:20:28.577 - Elevator 0 on Floor 2
+21:20:29.582 - Elevator 0 on Floor 1
+21:20:31.586 - Elevator 0 arrived at Floor 1 with 5 passengers.
+21:20:32.591 - Elevator 0 doors Opening
+21:20:33.595 - Elevator 0 doors Closing and 5 passengers getting off
+21:56:27.592 - RANDOM MODE ACTIVATED
+21:56:27.598 - 15:9:2
+21:56:27.599 - Elevator 0 will pick up 2 people from floor 15 and drop off at floor 9
+21:56:28.607 - Elevator 0 on Floor 1
+21:56:29.615 - Elevator 0 on Floor 2
+21:56:30.620 - Elevator 0 on Floor 3
+21:56:31.628 - Elevator 0 on Floor 4
+21:56:32.601 - 13:15:9
+21:56:32.602 - Elevator 1 will pick up 5 people from floor 13 and drop off at floor 15
+21:56:32.634 - Elevator 0 on Floor 5
+21:56:33.609 - Elevator 1 on Floor 1
+21:56:33.639 - Elevator 0 on Floor 6
+21:56:34.614 - Elevator 1 on Floor 2
+21:56:34.643 - Elevator 0 on Floor 7
+21:56:35.618 - Elevator 1 on Floor 3
+21:56:35.650 - Elevator 0 on Floor 8
+21:56:35.691 - EXITING SYSTEM
+21:56:36.626 - Elevator 1 on Floor 4
+21:56:36.657 - Elevator 0 on Floor 9
+21:56:37.630 - Elevator 1 doors Opening on floor 1 and has 5 passengers
+21:56:37.660 - Elevator 0 doors Opening on floor 0 and has 2 passengers
+21:56:38.631 - Elevator doors Closing
+21:56:38.665 - Elevator doors Closing
+21:56:39.633 - Elevator 1 doors Opening
+21:56:40.633 - Elevator 1 doors Closing and 5 passengers getting off
+21:56:40.669 - Elevator 0 arrived at Floor 9 with 2 passengers.
+21:56:41.670 - Elevator 0 doors Opening
+21:56:42.670 - Elevator 0 doors Closing and 2 passengers getting off
+21:57:48.434 - RANDOM MODE ACTIVATED
+21:57:48.440 - 15:14:3
+21:57:48.442 - Elevator 0 will pick up 3 people from floor 15 and drop off at floor 14
+21:57:49.453 - Elevator 0 on Floor 1
+21:57:50.207 - EXITING SYSTEM
+21:57:50.462 - Elevator 0 on Floor 2
+21:57:51.462 - Elevator 0 doors Opening on floor 0 and has 3 passengers
+21:57:52.468 - Elevator doors Closing
+21:57:53.472 - Elevator 0 doors Opening
+21:57:54.475 - Elevator 0 doors Closing and 3 passengers getting off
+21:58:33.020 - RANDOM MODE ACTIVATED
+21:58:33.030 - 3:14:5
+21:58:33.031 - Elevator 0 will pick up 5 people from floor 3 and drop off at floor 14
+21:58:34.056 - Elevator 0 on Floor 1
+21:58:35.065 - Elevator 0 on Floor 2
+21:58:36.074 - Elevator 0 on Floor 3
+21:58:38.035 - 5:14:4
+21:58:38.035 - Elevator 1 will pick up 4 people from floor 5 and drop off at floor 14
+21:58:38.078 - Elevator 0 arrived at Floor 3 with 0 passengers.
+21:58:38.658 - EXITING SYSTEM
+21:58:39.047 - Elevator 1 on Floor 1
+21:58:39.082 - Elevator 0 doors Opening on floor 0 and has 5 passengers
+21:58:40.048 - Elevator 1 doors Opening on floor 1 and has 4 passengers
+21:58:40.085 - Elevator doors Closing
+21:58:41.053 - Elevator doors Closing
+21:58:41.091 - Elevator 0 doors Opening
+21:58:42.058 - Elevator 1 doors Opening
+21:58:42.096 - Elevator 0 doors Closing and 5 passengers getting off
+21:58:43.059 - Elevator 1 doors Closing and 4 passengers getting off
+22:04:23.381 - RANDOM MODE ACTIVATED
+22:04:23.388 - 9:4:8
+22:04:23.389 - Elevator 0 will pick up 5 people from floor 9 and drop off at floor 4
+22:04:24.405 - Elevator 0 on Floor 1
+22:04:25.413 - Elevator 0 on Floor 2
+22:04:26.427 - Elevator 0 on Floor 3
+22:04:27.433 - Elevator 0 on Floor 4
+22:04:28.391 - 10:1:4
+22:04:28.392 - Elevator 1 will pick up 4 people from floor 10 and drop off at floor 1
+22:04:28.442 - Elevator 0 on Floor 5
+22:04:28.881 - EXITING SYSTEM
+22:04:29.400 - Elevator 1 on Floor 1
+22:04:29.450 - Elevator 0 on Floor 6
+22:04:30.406 - Elevator 1 doors Opening on floor 1 and has 4 passengers
+22:04:30.455 - Elevator 0 doors Opening on floor 0 and has 5 passengers
+22:04:31.411 - Elevator doors Closing
+22:04:31.456 - Elevator doors Closing
+22:04:32.412 - Elevator 1 doors Opening
+22:04:32.457 - Elevator 0 doors Opening
+22:04:33.413 - Elevator 1 doors Closing and 4 passengers getting off
+22:04:33.463 - Elevator 0 doors Closing and 5 passengers getting off
+22:05:28.178 - RANDOM MODE ACTIVATED
+22:05:28.181 - 7:15:10
+22:05:28.181 - Elevator 0 will pick up 5 people from floor 7 and drop off at floor 15
+22:05:29.190 - Elevator 0 on Floor 1
+22:05:30.196 - Elevator 0 on Floor 2
+22:05:30.756 - EXITING SYSTEM
+22:05:31.203 - Elevator 0 on Floor 3
+22:05:32.205 - Elevator 0 doors Opening on floor 0 and has 5 passengers
+22:05:33.207 - Elevator doors Closing
+22:05:34.210 - Elevator 0 doors Opening
+22:05:35.213 - Elevator 0 doors Closing and 5 passengers getting off
+22:05:45.853 - EXITING SYSTEM
+22:06:09.234 - EXITING SYSTEM
+22:07:16.133 - EXITING SYSTEM
+23:25:25.551 - RANDOM MODE ACTIVATED
+23:25:25.560 - 6:2:8
+23:25:30.566 - 13:9:6
+23:25:30.568 - Elevator 1 will pick up 5 people from floor 13 and drop off at floor 9
+23:25:30.568 - Elevator 0 will pick up 5 people from floor 6 and drop off at floor 2
+23:25:31.576 - Elevator 1 on Floor 1
+23:25:31.576 - Elevator 0 on Floor 1
+23:25:32.582 - Elevator 1 on Floor 2
+23:25:32.585 - Elevator 0 on Floor 2
+23:25:33.588 - Elevator 1 on Floor 3
+23:25:33.594 - Elevator 0 on Floor 3
+23:25:34.592 - Elevator 1 on Floor 4
+23:25:34.600 - Elevator 0 on Floor 4
+23:25:35.569 - 13:3:1
+23:25:35.569 - Elevator 2 will pick up 1 people from floor 13 and drop off at floor 3
+23:25:35.599 - Elevator 1 on Floor 5
+23:25:35.606 - Elevator 0 on Floor 5
+23:25:36.574 - Elevator 2 on Floor 1
+23:25:36.602 - Elevator 1 on Floor 6
+23:25:36.613 - Elevator 0 on Floor 6
+23:25:37.583 - Elevator 2 on Floor 2
+23:25:37.606 - Elevator 1 on Floor 7
+23:25:38.013 - EXITING SYSTEM
+23:25:38.586 - Elevator 2 on Floor 3
+23:25:38.611 - Elevator 1 on Floor 8
+23:25:38.617 - Elevator 0 arrived at Floor 6 with 0 passengers.
+23:25:39.587 - Elevator 2 doors Opening on floor 2 and has 1 passengers
+23:25:39.613 - Elevator 1 doors Opening on floor 1 and has 5 passengers
+23:25:39.619 - Elevator 0 doors Opening on floor 0 and has 5 passengers
+23:25:40.590 - Elevator doors Closing
+23:25:40.614 - Elevator doors Closing
+23:25:40.623 - Elevator doors Closing
+23:25:41.592 - Elevator 2 doors Opening
+23:25:41.619 - Elevator 1 doors Opening
+23:25:41.624 - Elevator 0 doors Opening
+23:25:42.595 - Elevator 2 doors Closing and 1 passengers getting off
+23:25:42.619 - Elevator 1 doors Closing and 5 passengers getting off
+23:25:42.630 - Elevator 0 doors Closing and 5 passengers getting off
+23:27:38.044 - Invalid mode input please try again.
+23:27:38.057 - DAY MODE ACTIVATED
+23:27:38.059 - EXITING SYSTEM
+23:27:38.064 - NIGHT MODE ACTIVATED
+23:27:38.066 - CUSTOM MODE ACTIVATED
+23:27:38.070 - RANDOM MODE ACTIVATED
+23:28:39.916 - DAY MODE ACTIVATED
+23:28:39.922 - EXITING SYSTEM
+23:28:39.928 - NIGHT MODE ACTIVATED
+23:28:39.931 - CUSTOM MODE ACTIVATED
+23:28:39.934 - RANDOM MODE ACTIVATED
+23:29:17.548 - Elevator 1 will pick up 2 people from floor 3 and drop off at floor 10
+23:29:18.749 - Elevator 1 on Floor 10
+23:29:19.753 - Elevator 1 on Floor 9
+23:29:20.759 - Elevator 1 on Floor 8
+23:29:21.764 - Elevator 1 on Floor 7
+23:29:22.769 - Elevator 1 on Floor 6
+23:29:23.776 - Elevator 1 on Floor 5
+23:29:24.782 - Elevator 1 on Floor 4
+23:29:25.784 - Elevator 1 on Floor 3
+23:29:27.785 - Elevator 1 arrived at Floor 3 with 0 passengers.
+23:29:28.789 - Elevator 1 doors Opening on floor 1 and has 2 passengers
+23:29:29.794 - Elevator doors Closing
+23:29:30.801 - Elevator 1 on Floor 4
+23:29:31.806 - Elevator 1 on Floor 5
+23:29:32.812 - Elevator 1 on Floor 6
+23:29:33.818 - Elevator 1 on Floor 7
+23:29:34.824 - Elevator 1 on Floor 8
+23:29:35.827 - Elevator 1 on Floor 9
+23:29:36.833 - Elevator 1 on Floor 10
+23:29:38.838 - Elevator 1 arrived at Floor 10 with 2 passengers.
+23:29:39.841 - Elevator 1 doors Opening
+23:29:40.845 - Elevator 1 doors Closing and 2 passengers getting off
+23:29:40.846 - Elevator 1 will pick up 15 people from floor 2 and drop off at floor 5
+23:29:41.850 - Elevator 1 on Floor 9
+23:29:42.855 - Elevator 1 on Floor 8
+23:29:43.862 - Elevator 1 on Floor 7
+23:29:44.864 - Elevator 1 on Floor 6
+23:29:45.866 - Elevator 1 on Floor 5
+23:29:46.872 - Elevator 1 on Floor 4
+23:29:47.875 - Elevator 1 on Floor 3
+23:29:48.881 - Elevator 1 on Floor 2
+23:29:50.882 - Elevator 1 arrived at Floor 2 with 0 passengers.
+23:29:51.887 - Elevator 1 doors Opening on floor 1 and has 15 passengers
+23:29:52.891 - Elevator doors Closing
+23:29:53.896 - Elevator 1 on Floor 3
+23:29:54.898 - Elevator 1 on Floor 4
+23:29:55.904 - Elevator 1 on Floor 5
+23:29:57.909 - Elevator 1 arrived at Floor 5 with 15 passengers.
+23:29:58.914 - Elevator 1 doors Opening
+23:29:59.917 - Elevator 1 doors Closing and 15 passengers getting off
+23:29:59.918 - Elevator 1 will pick up 15 people from floor 2 and drop off at floor 5
+23:30:00.924 - Elevator 1 on Floor 4
+23:30:01.928 - Elevator 1 on Floor 3
+23:30:02.933 - Elevator 1 on Floor 2
+23:30:04.938 - Elevator 1 arrived at Floor 2 with 0 passengers.
+23:30:05.942 - Elevator 1 doors Opening on floor 1 and has 15 passengers
+23:30:06.948 - Elevator doors Closing
+23:30:07.950 - Elevator 1 on Floor 3
+23:30:08.955 - Elevator 1 on Floor 4
+23:30:09.962 - Elevator 1 on Floor 5
+23:30:11.964 - Elevator 1 arrived at Floor 5 with 15 passengers.
+23:30:12.970 - Elevator 1 doors Opening
+23:30:13.972 - Elevator 1 doors Closing and 15 passengers getting off
+23:30:13.973 - Elevator 1 will pick up 15 people from floor 2 and drop off at floor 5
+23:30:14.979 - Elevator 1 on Floor 4
+23:30:15.984 - Elevator 1 on Floor 3
+23:30:16.991 - Elevator 1 on Floor 2
+23:30:18.995 - Elevator 1 arrived at Floor 2 with 0 passengers.
+23:30:20.000 - Elevator 1 doors Opening on floor 1 and has 15 passengers
+23:30:21.005 - Elevator doors Closing
+23:30:22.010 - Elevator 1 on Floor 3
+23:30:23.013 - Elevator 1 on Floor 4
+23:30:24.015 - Elevator 1 on Floor 5
+23:30:26.018 - Elevator 1 arrived at Floor 5 with 15 passengers.
+23:30:27.018 - Elevator 1 doors Opening
+23:30:28.020 - Elevator 1 doors Closing and 15 passengers getting off
+23:30:28.021 - Elevator 1 will pick up 15 people from floor 2 and drop off at floor 5
+23:30:29.024 - Elevator 1 on Floor 4
+23:30:30.026 - Elevator 1 on Floor 3
+23:30:31.029 - Elevator 1 on Floor 2
+23:30:33.034 - Elevator 1 arrived at Floor 2 with 0 passengers.
+23:30:34.036 - Elevator 1 doors Opening on floor 1 and has 15 passengers
+23:30:35.040 - Elevator doors Closing
+23:30:36.044 - Elevator 1 on Floor 3
+23:30:37.049 - Elevator 1 on Floor 4
+23:30:38.052 - Elevator 1 on Floor 5
+23:30:40.057 - Elevator 1 arrived at Floor 5 with 15 passengers.
+23:30:41.063 - Elevator 1 doors Opening
+23:30:42.065 - Elevator 1 doors Closing and 15 passengers getting off
+23:30:42.067 - Elevator 1 will pick up 15 people from floor 2 and drop off at floor 5
+23:30:43.069 - Elevator 1 on Floor 4
+23:30:44.071 - Elevator 1 on Floor 3
+23:30:45.077 - Elevator 1 on Floor 2
+23:30:47.081 - Elevator 1 arrived at Floor 2 with 0 passengers.
+23:30:48.083 - Elevator 1 doors Opening on floor 1 and has 15 passengers
+23:30:49.088 - Elevator doors Closing
+23:30:50.090 - Elevator 1 on Floor 3
+23:30:51.094 - Elevator 1 on Floor 4
+23:30:52.097 - Elevator 1 on Floor 5
+23:30:54.100 - Elevator 1 arrived at Floor 5 with 15 passengers.
+23:30:55.101 - Elevator 1 doors Opening
+23:30:56.106 - Elevator 1 doors Closing and 15 passengers getting off
+23:30:56.107 - Elevator 1 will pick up 15 people from floor 2 and drop off at floor 5
+23:30:57.109 - Elevator 1 on Floor 4
+23:30:58.111 - Elevator 1 on Floor 3
+23:30:59.116 - Elevator 1 on Floor 2
+23:31:01.118 - Elevator 1 arrived at Floor 2 with 0 passengers.
+23:31:02.123 - Elevator 1 doors Opening on floor 1 and has 15 passengers
+23:31:03.126 - Elevator doors Closing
+23:31:04.132 - Elevator 1 on Floor 3
+23:31:05.135 - Elevator 1 on Floor 4
+23:31:06.140 - Elevator 1 on Floor 5
+23:31:08.142 - Elevator 1 arrived at Floor 5 with 15 passengers.
+23:32:56.590 - Elevator 1 will pick up 2 people from floor 3 and drop off at floor 10
+23:32:57.797 - Elevator 1 on Floor 10
+23:32:58.803 - Elevator 1 on Floor 9
+23:32:59.808 - Elevator 1 on Floor 8
+23:33:00.811 - Elevator 1 on Floor 7
+23:33:01.815 - Elevator 1 on Floor 6
+23:33:02.819 - Elevator 1 on Floor 5
+23:33:03.826 - Elevator 1 on Floor 4
+23:33:04.831 - Elevator 1 on Floor 3
+23:33:06.835 - Elevator 1 arrived at Floor 3 with 0 passengers.
+23:33:07.839 - Elevator 1 doors Opening on floor 1 and has 2 passengers
+23:33:08.843 - Elevator doors Closing
+23:33:09.850 - Elevator 1 on Floor 4
+23:33:10.855 - Elevator 1 on Floor 5
+23:33:11.861 - Elevator 1 on Floor 6
+23:33:12.864 - Elevator 1 on Floor 7
+23:33:13.869 - Elevator 1 on Floor 8
+23:33:14.872 - Elevator 1 on Floor 9
+23:33:15.876 - Elevator 1 on Floor 10
+23:33:17.880 - Elevator 1 arrived at Floor 10 with 2 passengers.
+23:33:18.882 - Elevator 1 doors Opening
+23:33:19.887 - Elevator 1 doors Closing and 2 passengers getting off
+23:36:28.486 - Elevator 1 will pick up 2 people from floor 3 and drop off at floor 10
+23:36:29.670 - Elevator 1 on Floor 10
+23:36:30.676 - Elevator 1 on Floor 9
+23:36:31.681 - Elevator 1 on Floor 8
+23:36:32.686 - Elevator 1 on Floor 7
+23:36:33.689 - Elevator 1 on Floor 6
+23:36:34.690 - Elevator 1 on Floor 5
+23:36:35.696 - Elevator 1 on Floor 4
+23:36:36.701 - Elevator 1 on Floor 3
+23:36:38.705 - Elevator 1 arrived at Floor 3 with 0 passengers.
+23:36:39.711 - Elevator 1 doors Opening on floor 1 and has 2 passengers
+23:36:40.711 - Elevator doors Closing
+23:36:41.714 - Elevator 1 on Floor 4
+23:36:42.719 - Elevator 1 on Floor 5
+23:36:43.724 - Elevator 1 on Floor 6
+23:36:44.727 - Elevator 1 on Floor 7
+23:36:45.728 - Elevator 1 on Floor 8
+23:36:46.730 - Elevator 1 on Floor 9
+23:36:47.736 - Elevator 1 on Floor 10
+23:36:49.740 - Elevator 1 arrived at Floor 10 with 2 passengers.
+23:36:50.745 - Elevator 1 doors Opening
+23:36:51.749 - Elevator 1 doors Closing and 2 passengers getting off
+23:43:05.753 - Elevator 1 will pick up 2 people from floor 3 and drop off at floor 10
+23:43:06.965 - Elevator 1 on Floor 10
+23:43:07.970 - Elevator 1 on Floor 9
+23:43:08.974 - Elevator 1 on Floor 8
+23:43:09.980 - Elevator 1 on Floor 7
+23:43:10.986 - Elevator 1 on Floor 6
+23:43:11.990 - Elevator 1 on Floor 5
+23:43:12.996 - Elevator 1 on Floor 4
+23:43:14.002 - Elevator 1 on Floor 3
+23:43:16.008 - Elevator 1 arrived at Floor 3 with 0 passengers.
+23:43:17.012 - Elevator 1 doors Opening on floor 1 and has 2 passengers
+23:43:18.016 - Elevator doors Closing
+23:43:19.022 - Elevator 1 on Floor 4
+23:43:20.027 - Elevator 1 on Floor 5
+23:43:21.033 - Elevator 1 on Floor 6
+23:43:22.040 - Elevator 1 on Floor 7
+23:43:23.045 - Elevator 1 on Floor 8
+23:43:24.050 - Elevator 1 on Floor 9
+23:43:25.056 - Elevator 1 on Floor 10
+23:43:27.059 - Elevator 1 arrived at Floor 10 with 2 passengers.
+23:43:28.062 - Elevator 1 doors Opening
+23:43:29.068 - Elevator 1 doors Closing and 2 passengers getting off
+23:46:27.024 - Elevator 1 will pick up 2 people from floor 3 and drop off at floor 10
+23:46:28.254 - Elevator 1 on Floor 10
+23:46:29.261 - Elevator 1 on Floor 9
+23:46:30.268 - Elevator 1 on Floor 8
+23:46:31.273 - Elevator 1 on Floor 7
+23:46:32.277 - Elevator 1 on Floor 6
+23:46:33.278 - Elevator 1 on Floor 5
+23:46:34.285 - Elevator 1 on Floor 4
+23:46:35.291 - Elevator 1 on Floor 3
+23:46:37.296 - Elevator 1 arrived at Floor 3 with 0 passengers.
+23:46:38.300 - Elevator 1 doors Opening on floor 3 and has 2 passengers
+23:46:39.305 - Elevator doors Closing
+23:46:40.309 - Elevator 1 on Floor 4
+23:46:41.311 - Elevator 1 on Floor 5
+23:46:42.313 - Elevator 1 on Floor 6
+23:46:43.314 - Elevator 1 on Floor 7
+23:46:44.318 - Elevator 1 on Floor 8
+23:46:45.323 - Elevator 1 on Floor 9
+23:46:46.329 - Elevator 1 on Floor 10
+23:46:48.333 - Elevator 1 arrived at Floor 10 with 2 passengers.
+23:46:49.339 - Elevator 1 doors Opening
+23:46:50.344 - Elevator 1 doors Closing and 2 passengers getting off
+23:47:18.987 - Elevator 1 will pick up 2 people from floor 3 and drop off at floor 10
+23:47:20.203 - Elevator 1 on Floor 10
+23:47:21.211 - Elevator 1 on Floor 9
+23:47:22.216 - Elevator 1 on Floor 8
+23:47:23.222 - Elevator 1 on Floor 7
+23:47:24.229 - Elevator 1 on Floor 6
+23:47:25.235 - Elevator 1 on Floor 5
+23:47:26.241 - Elevator 1 on Floor 4
+23:47:27.247 - Elevator 1 on Floor 3
+23:47:29.252 - Elevator 1 arrived at Floor 3 with 0 passengers.
+23:47:30.256 - Elevator 1 doors Opening on floor 3 and has 2 passengers
+23:47:31.260 - Elevator doors Closing
+23:47:32.267 - Elevator 1 on Floor 4
+23:47:33.274 - Elevator 1 on Floor 5
+23:47:34.280 - Elevator 1 on Floor 6
+23:47:35.286 - Elevator 1 on Floor 7
+23:47:36.291 - Elevator 1 on Floor 8
+23:47:37.296 - Elevator 1 on Floor 9
+23:47:38.303 - Elevator 1 on Floor 10
+23:47:40.305 - Elevator 1 arrived at Floor 10 with 2 passengers.
+23:47:41.307 - Elevator 1 doors Opening
+23:47:42.312 - Elevator 1 doors Closing and 2 passengers getting off
+23:48:34.813 - Elevator 1 will pick up 2 people from floor 3 and drop off at floor 10
+23:48:36.032 - Elevator 1 on Floor 10
+23:48:37.039 - Elevator 1 on Floor 9
+23:48:38.044 - Elevator 1 on Floor 8
+23:48:39.050 - Elevator 1 on Floor 7
+23:48:40.052 - Elevator 1 on Floor 6
+23:48:41.058 - Elevator 1 on Floor 5
+23:48:42.063 - Elevator 1 on Floor 4
+23:48:43.070 - Elevator 1 on Floor 3
+23:48:45.075 - Elevator 1 arrived at Floor 3 with 0 passengers.
+23:48:46.078 - Elevator 1 doors Opening on floor 3 and has 2 passengers
+23:48:47.084 - Elevator doors Closing
+23:48:48.089 - Elevator 1 on Floor 4
+23:48:49.095 - Elevator 1 on Floor 5
+23:48:50.100 - Elevator 1 on Floor 6
+23:48:51.106 - Elevator 1 on Floor 7
+23:48:52.109 - Elevator 1 on Floor 8
+23:48:53.114 - Elevator 1 on Floor 9
+23:48:54.119 - Elevator 1 on Floor 10
+23:48:56.124 - Elevator 1 arrived at Floor 10 with 2 passengers.
+23:48:57.129 - Elevator 1 doors Opening
+23:48:58.134 - Elevator 1 doors Closing and 2 passengers getting off
+23:53:34.114 - EXITING SYSTEM
+23:53:35.397 - Elevator 0 on Floor 5
+23:53:36.421 - Elevator 0 on Floor 6
+23:53:37.431 - Elevator 0 on Floor 7
+23:53:39.437 - Elevator 0 arrived at Floor 7 with 0 passengers.
+23:53:39.448 - Elevator 1 will pick up 2 people from floor 7 and drop off at floor 1
+23:53:40.454 - Elevator 1 on Floor 9
+23:53:41.460 - Elevator 1 on Floor 8
+23:53:42.466 - Elevator 1 on Floor 7
+23:53:44.467 - Elevator 1 arrived at Floor 7 with 0 passengers.
+23:53:45.473 - Elevator 1 doors Opening on floor 7 and has 2 passengers
+23:53:46.476 - Elevator doors Closing
+23:53:47.483 - Elevator 1 on Floor 6
+23:53:48.489 - Elevator 1 on Floor 5
+23:53:49.493 - Elevator 1 on Floor 4
+23:53:50.498 - Elevator 1 on Floor 3
+23:53:51.502 - Elevator 1 on Floor 2
+23:53:52.508 - Elevator 1 on Floor 1
+23:53:54.513 - Elevator 1 arrived at Floor 1 with 2 passengers.
+23:53:55.519 - Elevator 1 doors Opening
+23:53:56.524 - Elevator 1 doors Closing and 2 passengers getting off
+23:53:56.532 - Elevator 1 will pick up 2 people from floor 3 and drop off at floor 10
+23:53:57.537 - Elevator 1 on Floor 2
+23:53:58.543 - Elevator 1 on Floor 3
+23:54:00.548 - Elevator 1 arrived at Floor 3 with 0 passengers.
+23:54:01.553 - Elevator 1 doors Opening on floor 3 and has 2 passengers
+23:54:02.556 - Elevator doors Closing
+23:54:03.562 - Elevator 1 on Floor 4
+23:54:04.566 - Elevator 1 on Floor 5
+23:54:05.571 - Elevator 1 on Floor 6
+23:54:06.576 - Elevator 1 on Floor 7
+23:54:07.582 - Elevator 1 on Floor 8
+23:54:08.586 - Elevator 1 on Floor 9
+23:54:09.591 - Elevator 1 on Floor 10
+23:54:11.596 - Elevator 1 arrived at Floor 10 with 2 passengers.
+23:54:12.599 - Elevator 1 doors Opening
+23:54:13.601 - Elevator 1 doors Closing and 2 passengers getting off
+23:54:13.607 - Elevator 5 will pick up 2 people from floor 7 and drop off at floor 1
+23:54:13.607 - Elevator 7 will pick up 1 people from floor 3 and drop off at floor 1
+23:54:14.613 - Elevator 5 on Floor 9
+23:54:15.611 - Elevator 7 arrived at Floor 3 with 0 passengers.
+23:54:15.618 - Elevator 5 on Floor 8
+23:54:16.616 - Elevator 7 doors Opening on floor 3 and has 1 passengers
+23:54:16.619 - Elevator 5 on Floor 7
+23:54:17.621 - Elevator doors Closing
+23:54:18.624 - Elevator 5 arrived at Floor 7 with 0 passengers.
+23:54:18.627 - Elevator 7 on Floor 2
+23:54:19.629 - Elevator 5 doors Opening on floor 7 and has 2 passengers
+23:54:19.630 - Elevator 7 on Floor 1
+23:54:20.634 - Elevator doors Closing
+23:54:21.631 - Elevator 7 arrived at Floor 1 with 1 passengers.
+23:54:21.639 - Elevator 5 on Floor 6
+23:54:22.634 - Elevator 7 doors Opening
+23:54:22.645 - Elevator 5 on Floor 5
+23:54:23.639 - Elevator 7 doors Closing and 1 passengers getting off
+23:54:23.651 - Elevator 5 on Floor 4
+23:54:24.657 - Elevator 5 on Floor 3
+23:54:25.663 - Elevator 5 on Floor 2
+23:54:26.668 - Elevator 5 on Floor 1
+23:54:28.673 - Elevator 5 arrived at Floor 1 with 2 passengers.
+23:54:29.678 - Elevator 5 doors Opening
+23:54:30.679 - Elevator 5 doors Closing and 2 passengers getting off
+23:56:12.136 - EXITING SYSTEM
+23:56:13.421 - Elevator 0 on Floor 5
+23:56:14.443 - Elevator 0 on Floor 6
+23:56:15.451 - Elevator 0 on Floor 7
+23:56:17.458 - Elevator 0 arrived at Floor 7 with 0 passengers.
+23:56:17.473 - Elevator 1 will pick up 2 people from floor 7 and drop off at floor 1
+23:56:18.480 - Elevator 1 on Floor 9
+23:56:19.484 - Elevator 1 on Floor 8
+23:56:20.489 - Elevator 1 on Floor 7
+23:56:22.494 - Elevator 1 arrived at Floor 7 with 0 passengers.
+23:56:23.497 - Elevator 1 doors Opening on floor 7 and has 2 passengers
+23:56:24.503 - Elevator doors Closing
+23:56:25.508 - Elevator 1 on Floor 6
+23:56:26.514 - Elevator 1 on Floor 5
+23:56:27.521 - Elevator 1 on Floor 4
+23:56:28.526 - Elevator 1 on Floor 3
+23:56:29.529 - Elevator 1 on Floor 2
+23:56:30.533 - Elevator 1 on Floor 1
+23:56:32.538 - Elevator 1 arrived at Floor 1 with 2 passengers.
+23:56:33.544 - Elevator 1 doors Opening
+23:56:34.549 - Elevator 1 doors Closing and 2 passengers getting off
+23:56:34.554 - Elevator 1 will pick up 2 people from floor 3 and drop off at floor 10
+23:56:35.559 - Elevator 1 on Floor 2
+23:56:36.565 - Elevator 1 on Floor 3
+23:56:38.569 - Elevator 1 arrived at Floor 3 with 0 passengers.
+23:56:39.574 - Elevator 1 doors Opening on floor 3 and has 2 passengers
+23:56:40.577 - Elevator doors Closing
+23:56:41.582 - Elevator 1 on Floor 4
+23:56:42.585 - Elevator 1 on Floor 5
+23:56:43.591 - Elevator 1 on Floor 6
+23:56:44.595 - Elevator 1 on Floor 7
+23:56:45.600 - Elevator 1 on Floor 8
+23:56:46.606 - Elevator 1 on Floor 9
+23:56:47.612 - Elevator 1 on Floor 10
+23:56:49.617 - Elevator 1 arrived at Floor 10 with 2 passengers.
+23:56:50.621 - Elevator 1 doors Opening
+23:56:51.626 - Elevator 1 doors Closing and 2 passengers getting off
+23:56:51.633 - Elevator 5 will pick up 2 people from floor 7 and drop off at floor 1
+23:56:51.633 - Elevator 7 will pick up 1 people from floor 3 and drop off at floor 1
+23:56:52.638 - Elevator 5 on Floor 9
+23:56:53.638 - Elevator 7 arrived at Floor 3 with 0 passengers.
+23:56:53.646 - Elevator 5 on Floor 8
+23:56:54.640 - Elevator 7 doors Opening on floor 3 and has 1 passengers
+23:56:54.653 - Elevator 5 on Floor 7
+23:56:55.645 - Elevator doors Closing
+23:56:56.651 - Elevator 7 on Floor 2
+23:56:56.658 - Elevator 5 arrived at Floor 7 with 0 passengers.
+23:56:57.656 - Elevator 7 on Floor 1
+23:56:57.662 - Elevator 5 doors Opening on floor 7 and has 2 passengers
+23:56:58.667 - Elevator doors Closing
+23:56:59.661 - Elevator 7 arrived at Floor 1 with 1 passengers.
+23:56:59.669 - Elevator 5 on Floor 6
+23:57:00.666 - Elevator 7 doors Opening
+23:57:00.675 - Elevator 5 on Floor 5
+23:57:01.671 - Elevator 7 doors Closing and 1 passengers getting off
+23:57:01.676 - Elevator 5 on Floor 4
